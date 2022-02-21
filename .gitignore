@@ -3,3 +3,11 @@
 ################################################################################
 
 /Server/Binary/Debug
+/Server/DummyClient/x64/Debug
+/Server/GameServer/x64/Debug
+/Server/Libs/Debug
+/Server/ServerCore/Debug
+/Server/ServerCore/x64/Debug/ServerCore.tlog
+/Server/ServerCore/x64/Debug
+/Server/.vs/Server/v16
+/Server/x64/Debug
